@@ -1,0 +1,5 @@
+{
+    "name": "clone-twiiter",
+    "script": "./index.js",
+    "instances": "2"
+}
